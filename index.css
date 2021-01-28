@@ -1,3 +1,10 @@
 h1 {
     color: red;
 }
+
+.btn {
+    width: 100px;
+    height: 100px;
+    background: #fac;
+    text-align: center;
+}
